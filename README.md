@@ -1,4 +1,4 @@
-### Hi there 👋
+ 
 
 <!--
 **merlyneez/merlyneez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# ⚡ 你已经站在了人生的起跑线上，为了实现心中的远大目标，你正努力拼搏着。成功属于不畏困难、勇往直前的人。相信自己！2、要有理想，理想不是幻想更不是妄想
